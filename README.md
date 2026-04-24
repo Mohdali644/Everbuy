@@ -4,7 +4,7 @@ A fully responsive E-commerce frontend website inspired by Amazon, built using H
 
 🚀 Demo
 
-🔗 Live Preview: https://mohdali644.github.io/E-commerce/
+🔗 Live Preview: https://mohdali644.github.io/Everbuy/
 
 ---
 
