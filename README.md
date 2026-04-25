@@ -2,7 +2,6 @@
 
 A fully responsive E-commerce frontend website inspired by Amazon, built using HTML5, CSS3, and JavaScript. Users can browse product categories, view items, and interact with core e-commerce UI elements.
 
-🚀 Demo
 
 🔗 Live Preview: https://mohdali644.github.io/Everbuy/
 
