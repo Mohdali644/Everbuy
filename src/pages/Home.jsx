@@ -490,7 +490,7 @@ export default function Home() {
       </section>
 
       {/* 7. ULTRA CINEMATIC NEWSLETTER NODE (PILL SHAPED) */}
-      <section className="relative py-32 overflow-hidden bg-[#0a0f16] border-y border-white/5">
+      <section className="relative py-32  overflow-hidden bg-[#0a0f16] border-y border-white/5">
         {/* Massive Animated Background Orbs */}
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[1000px] h-[500px] bg-gradient-to-r from-[#ff9900]/20 via-[#ff3300]/20 to-transparent blur-[120px] rounded-full pointer-events-none animate-pulse"></div>
         <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-purple-500/10 blur-[120px] rounded-full pointer-events-none"></div>
@@ -498,12 +498,12 @@ export default function Home() {
         {/* Subtle Tech Grid inside the dark area */}
         <div className="absolute inset-0 tech-grid opacity-20 pointer-events-none"></div>
         
-        <div className="relative z-10 max-w-[800px] mx-auto px-6 text-center">
+        <div className="relative z-10  max-w-[800px] mx-auto px-6 text-center">
           <div className="inline-flex items-center gap-2 bg-white/5 border border-white/10 text-white px-5 py-2 rounded-full text-xs font-black uppercase tracking-widest mb-8 shadow-xl backdrop-blur-md">
             <div className="w-2 h-2 rounded-full bg-[#10b981] animate-pulse shadow-[0_0_10px_rgba(16,185,129,0.8)]"></div>
             System Online
           </div>
-          <h2 className="text-5xl md:text-7xl font-black text-white tracking-tighter mb-6 drop-shadow-2xl">
+          <h2 className="text-5xl md:text-7xl tracking-normal font-black text-white mb-6 drop-shadow-2xl">
             Join the <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#ff9900] to-[#ff3300]">Network.</span>
           </h2>
           <p className="text-xl text-slate-400 font-medium mb-12 max-w-2xl mx-auto leading-relaxed">
@@ -536,7 +536,7 @@ export default function Home() {
             </div>
           </div>
           
-          <p className="text-xs text-slate-500 mt-8 font-medium">By initializing, you agree to our <span className="text-white underline cursor-pointer hover:text-[#ff9900]">Terms of Service</span> and <span className="text-white underline cursor-pointer hover:text-[#ff9900]">Privacy Protocol</span>.</p>
+          <p className="text-xs text-slate-500 mt-6 font-medium">By initializing, you agree to our <span className="text-white underline cursor-pointer hover:text-[#ff9900]">Terms of Service</span> and <span className="text-white underline cursor-pointer hover:text-[#ff9900]">Privacy Protocol</span>.</p>
         </div>
       </section>
     </main>
