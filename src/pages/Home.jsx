@@ -526,7 +526,7 @@ export default function Home() {
               <input 
                 type="email" 
                 placeholder="Enter system email..." 
-                className="flex-grow bg-transparent border-none outline-none px-4 text-white font-medium placeholder:text-slate-500 text-lg w-full"
+                className="flex-grow mr-2 ml-2 bg-transparent border-none outline-none px-4 text-white font-medium placeholder:text-slate-500 p-2 m-0.5 rounded-3xl text-lg w-full"
               />
               
               {/* The submit button - Swapped to rounded-full */}
